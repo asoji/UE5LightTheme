@@ -5,7 +5,7 @@
 Just make sure your UE5 is completely closed while doing this, otherwise the theme will not show up in the Engine until restarted.
 
 # How to install
-Go to where your UE5 is located, typically that's in `C:\Program Files\Epic Games`. Now go to `UE_5.0EA\Engine\Content\Slate\Themes`, and drop the Attempted Light Theme JSON into there, should look like this
+Click on the green "Code" and then Download ZIP. After it's downloaded it, extract the ZIP anywhere. Go to where your UE5 is located, typically that's in `C:\Program Files\Epic Games`. Now go to `UE_5.0EA\Engine\Content\Slate\Themes`, and drop the Attempted Light Theme JSON into there, should look like this
 
 ![Location](https://cdn.discordapp.com/attachments/670086223322284049/869915715698823178/unknown.png)
 
